@@ -26,6 +26,7 @@
 
 .color-1 {
     background-color: var(--primary-color);
+    color: var(--dark-color);
 }
 
 .color-2 {
@@ -34,6 +35,7 @@
 
 .color-3 {
     background-color: var(--dark-color);
+    color: var(--secondary-color);
 }
 
 .h1 {
@@ -67,36 +69,42 @@
     background-color: var(--primary-color);
     color: var(--dark-color);
     border-radius: 0;
+    font-weight: var(--font-heavy);
 }
 
 .button-2 {
     background-color: var(--secondary-color);
     color: var(--dark-color);
     border-radius: 0;
+    font-weight: var(--font-heavy);
 }
 
 .button-3 {
     background-color: var(--dark-color);
     color: var(--primary-color);
     border-radius: 0;
+    font-weight: var(--font-heavy);
 }
 
 .hover-1 {
-    background-color: var(--dark-color);
-    color: var(--primary-color);
+    background-color: var(--secondary-color);
+    color: var(--dark-color);
     border-radius: 0;
+    font-weight: var(--font-heavy);
 }
 
 .hover-2 {
     background-color: var(--primary-color);
     color: var(--dark-color);
     border-radius: 0;
+    font-weight: var(--font-heavy);
 }
 
 .hover-3 {
     background-color: var(--secondary-color);
-    color: var(--dark-color);
+    color: var(--primary-color);
     border-radius: 0;
+    font-weight: var(--font-heavy);
 }
 
 .mosaic-forms {
